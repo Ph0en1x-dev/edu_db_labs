@@ -55,6 +55,10 @@ export default defineConfig({
             link: "/software/README",
           },
           {
+            text: "Реалізація інформаційного та програмного забезпечення",
+            link: "/implementation/implementation(role)",
+          },
+          {
             text: "Тестування працездатності системи",
             link: "/test/README",
           },
