@@ -55,7 +55,7 @@ export default defineConfig({
             link: "/software/README",
           },
           {
-            text: "Реалізація інформаційного та програмного забезпечення",
+            text: "Реалізація об'єктно реляційного відображення",
             link: "/implementation/implementation(role)",
           },
           {
@@ -71,7 +71,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/KyryloGomberg/edu_db_labs/" },
+      { icon: "github", link: "https://github.com/Ph0en1x-dev/edu_db_labs" },
     ],
   },
 
